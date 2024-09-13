@@ -1,7 +1,7 @@
 {
-  "name": "tabnews",
+  "name": "comerebebernews",
   "version": "1.0.0",
-  "description": "implementação do tabnews",
+  "description": "implementação baseada no tabnews para bares e restaurantes",
   "main": "index.js",
   "scripts": {
     "dev": "pnpm run services:up && next dev",
