@@ -13,6 +13,6 @@ jobs:
         with:
           node-version: "lts/hydrogen"
 
-      - run: pnpm install --frozen-lockfile
+      - run: npm install
 
-      - run: pnpm run test
+      - run: npm test
